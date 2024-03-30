@@ -1,0 +1,13 @@
+.textAlignCenter{
+    text-align: center;
+}
+.singin-wrapper{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+@media only screen and (max-width: 900px) {
+    .singin-wrapper{
+        width: 100% !important;
+    }
+}
